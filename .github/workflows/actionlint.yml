@@ -1,4 +1,4 @@
-name: Lints GitHub Actions workflows
+name: Linting GitHub Actions workflows
 on:
   push:
     branches:
